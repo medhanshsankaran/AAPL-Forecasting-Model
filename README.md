@@ -12,8 +12,8 @@ Analysis was done in Python, using libraries such as yfinance for data gathering
 
 ## Tools Used
 
-Python
-
-JupyterLab
-
-Visual Studio Code
+* Python
+* JupyterLab
+* Yahoo Finance
+* Microsoft Excel
+* Visual Studio Code
