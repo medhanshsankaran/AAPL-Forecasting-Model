@@ -1,8 +1,8 @@
 # AAPL Forecasting Model
 
-### (Jupyter Notebook) [https://github.com/medhanshsankaran/AAPL-Forecasting-Model/blob/main/AAPLPredictionCode.ipynb]
+### [Jupyter Notebook](https://github.com/medhanshsankaran/AAPL-Forecasting-Model/blob/main/AAPLPredictionCode.ipynb)
 
-### (Report) [https://github.com/medhanshsankaran/AAPL-Forecasting-Model/blob/main/GroupProjectFinalSubmission.pdf]
+### [Report](https://github.com/medhanshsankaran/AAPL-Forecasting-Model/blob/main/GroupProjectFinalSubmission.pdf)
 
 ## Description
 
